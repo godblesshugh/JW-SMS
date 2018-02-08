@@ -1,0 +1,18 @@
+{
+    "curly": true,
+    "eqeqeq": false,
+    "immed": true,
+    "noarg": true,
+    "noempty": true,
+    "quotmark": "single",
+    "undef": true,
+    "strict": true,
+    "unused": true,
+    "eqnull": true,
+    "browser": false,
+    "node": true,
+    "esversion": 6,
+    "globals": {
+        "async": true
+    }
+}
