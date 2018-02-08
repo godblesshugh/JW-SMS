@@ -1,0 +1,16 @@
+{
+    "name": "js_sms",
+    "version": "0.0.1",
+    "keywords": [
+        "jiwei",
+        "sdk",
+        "sms",
+        "android"
+    ],
+    "private": false,
+    "description": "Send sms with JW",
+    "main": "index.js",
+    "dependencies": {
+        "request": "^2.83.0"
+    }
+}
